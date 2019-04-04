@@ -11,8 +11,9 @@ List of the things I learned today
 ---
 
 ### .Net
-[Floating Point Types](.net/floating-point-types.md)
+* [Floating Point Types](.net/floating-point-types.md)
 
 ### Oracle
-[Find Most Recent Entry](oracle/find-most-recent-entry.md)
-[Find Root Parent](oracle/find-root-parent.md)
+* [Find Most Recent Entry](oracle/find-most-recent-entry.md)
+* [Find Root Parent](oracle/find-root-parent.md)
+* [Search By RegEx](oracle/search-by-regex.md)
