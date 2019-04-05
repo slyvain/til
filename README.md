@@ -6,6 +6,7 @@ List of the things I learned today
 ### Topics
 
 * [.Net](#.net)
+* [Git](#git)
 * [Oracle](#oracle)
 
 ---
