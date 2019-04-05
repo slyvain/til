@@ -13,6 +13,9 @@ List of the things I learned today
 ### .Net
 * [Floating Point Types](.net/floating-point-types.md)
 
+### Git
+* [Fetch Only Remote](git/fetch-only-remote.md)
+
 ### Oracle
 * [Find Most Recent Entry](oracle/find-most-recent-entry.md)
 * [Find Root Parent](oracle/find-root-parent.md)
