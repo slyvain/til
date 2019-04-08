@@ -6,11 +6,11 @@ Example, with the table `person`:
 
 | Id | Firstname | Lastname | Parent_Id |
 | -- | --- | --- | --- |
-| 1  | Jaden | Smith | |
-| 2  | Adam | Sandler | 1|
-| 3  | Taylor | Lautner | 1  |
-| 4  | Kevin | James | 2 |
-| 5  | Tyler | Perry | 4 |
+| 1  | Patricia | Smith | |
+| 2  | Adam | Smith | 1|
+| 3  | Martha | Smith | 1  |
+| 4  | Kevin | Smith | 2 |
+| 5  | Tyler | Smith | 4 |
 
 ```sql
 SELECT t1.*
