@@ -1,6 +1,11 @@
 # Pagination
 
-This entry is to show how to paginate rows (here customers) when we join on another table (orders), resulting in "duplicated" results from the left table (multiple orders means having the same customer returned multiple times).
+This entry is to show how to paginate rows (here customers) when we join on another table (orders), resulting in "duplicated" results from the left table:
+having multiple orders per customer means having the same customer returned in mutliple rows.
+
+Play around: http://sqlfiddle.com/#!4/2aeff/13/0
+For more on this: https://blogs.oracle.com/oraclemagazine/on-top-n-and-pagination-queries
+
 Consider the tables below, a customer have one or multiple orders.
 
 ```sql
@@ -145,5 +150,3 @@ WHERE pagination BETWEEN (3 + 1) AND (3 + 3)
 | 6 | 6 | Barri | 20 | 257.18 |
 
 You get the idea!
-
-For more on this: https://blogs.oracle.com/oraclemagazine/on-top-n-and-pagination-queries
