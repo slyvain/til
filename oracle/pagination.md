@@ -145,3 +145,5 @@ WHERE pagination BETWEEN (3 + 1) AND (3 + 3)
 | 6 | 6 | Barri | 20 | 257.18 |
 
 You get the idea!
+
+For more on this: https://blogs.oracle.com/oraclemagazine/on-top-n-and-pagination-queries
