@@ -8,6 +8,7 @@ List of the things I learned today
 * [.Net](#.net)
 * [Git](#git)
 * [Oracle](#oracle)
+* [Shell](#shell)
 
 ---
 
@@ -22,3 +23,6 @@ List of the things I learned today
 * [Find Root Parent](oracle/find-root-parent.md)
 * [Search By RegEx](oracle/search-by-regex.md)
 * [Pagination](oracle/pagination.md)
+
+## Shell
+* [Tar-GZ a Directory](shell/tar-gz-directory.md)
