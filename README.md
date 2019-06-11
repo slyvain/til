@@ -14,6 +14,7 @@ List of the things I learned today
 
 ### .Net
 * [Floating Point Types](.net/floating-point-types.md)
+* [Out Var](.net/out-var.md)
 
 ### Git
 * [Fetch Only Remote](git/fetch-only-remote.md)
