@@ -14,6 +14,7 @@ List of the things I learned today
 
 ### .Net
 * [Floating Point Types](.net/floating-point-types.md)
+* [Homonymous NuGet and Project names](.net/homonymous-nuget-project-names.md)
 * [Out Var](.net/out-var.md)
 
 ### Git
