@@ -22,9 +22,9 @@ List of the things I learned today
 
 ### Oracle
 * [Find Most Recent Entry](oracle/find-most-recent-entry.md)
-* [Find Root Parent](oracle/find-root-parent.md)
 * [Search By RegEx](oracle/search-by-regex.md)
 * [Pagination](oracle/pagination.md)
+* [Simple Hierarchical Queries](oracle/simple-hierarchical-queries.md)
 
 ## Shell
 * [Tar-GZ a Directory](shell/tar-gz-directory.md)
