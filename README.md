@@ -21,6 +21,7 @@ List of the things I learned today
 * [Fetch Only Remote](git/fetch-only-remote.md)
 
 ### Oracle
+* [Escape Special Characters](oracle/escape-special-characters.md)
 * [Find Most Recent Entry](oracle/find-most-recent-entry.md)
 * [Search By RegEx](oracle/search-by-regex.md)
 * [Pagination](oracle/pagination.md)
