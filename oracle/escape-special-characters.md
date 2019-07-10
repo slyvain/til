@@ -27,7 +27,7 @@ An alternative without `chr(38)`:
 SELECT * FROM my_table WHERE description = 'Some text with an &' || ' sign';
 ```
 
-Finally:
+Finally, this works as well and is definitely interesting when running a script:
 ```sql
 SET DEFINE OFF
 SELECT * FROM my_table WHERE description = 'Some text with an & sign';
