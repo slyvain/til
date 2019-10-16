@@ -1,5 +1,7 @@
 # Consolidate NuGet packages
 
+![Consolidate NuGet Packages in Visual Studio 2017](../assets/consolidate-nuget-packages.png?raw=true)
+
 In Visual Studio, on the solution level, right click and select:
 `Manage NuGet Packages for Solution...`
 
