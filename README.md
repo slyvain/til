@@ -17,6 +17,7 @@ List of the things I learned today
 * [Homonymous NuGet and Project names](.net/homonymous-nuget-project-names.md)
 * [Consolidate NuGet Packages](.net/nuget-consolidate.md)
 * [Out Var](.net/out-var.md)
+* [Start VS As Administrator](.net/start-vs-as-admin.md)
 
 ### Git
 * [Fetch Only Remote](git/fetch-only-remote.md)
