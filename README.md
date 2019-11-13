@@ -8,6 +8,7 @@ List of the things I learned today
 * [.Net](#.net)
 * [Git](#git)
 * [Oracle](#oracle)
+* [Photoshop](#photoshop)
 * [Shell](#shell)
 
 ---
@@ -29,6 +30,11 @@ List of the things I learned today
 * [Search By RegEx](oracle/search-by-regex.md)
 * [Pagination](oracle/pagination.md)
 * [Simple Hierarchical Queries](oracle/simple-hierarchical-queries.md)
+
+### Photoshop
+* [Autumn Effect](photoshop/autumn-effet.md)
+* [Composites](photoshop/composites.md)
+* [Luminosity Masks](photoshop/luminosity-masks.md)
 
 ## Shell
 * [Tar-GZ a Directory](shell/tar-gz-directory.md)
