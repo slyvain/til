@@ -32,7 +32,7 @@ List of the things I learned today
 * [Simple Hierarchical Queries](oracle/simple-hierarchical-queries.md)
 
 ### Photoshop
-* [Autumn Effect](photoshop/autumn-effet.md)
+* [Autumn Effect](photoshop/autumn-effect.md)
 * [Composites](photoshop/composites.md)
 * [Luminosity Masks](photoshop/luminosity-masks.md)
 
