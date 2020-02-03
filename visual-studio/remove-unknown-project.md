@@ -1,8 +1,9 @@
-# Remove <Unknown Project> from Test Explorer
+# Remove `<Unknown Project>` from Test Explorer
 
 ![Unknown Project in Test Explorer](../assets/vs-unknown-project.png?raw=true)
 
 Some remnant unit tests still appear in the Test Explorer. Most likely those units have been renamed or deleted, but VS keeps them under the `<Unknown Project>` project.
+
 And for some reason, in this case, the tests pass! :satisfied:
 
 How to remove it:
