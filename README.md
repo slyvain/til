@@ -39,7 +39,7 @@ List of the things I learned today
 * [Tar-GZ a Directory](shell/tar-gz-directory.md)
 
 ### Visual Studio
-* [Homonymous NuGet and Project names](.net/homonymous-nuget-project-names.md)
-* [Consolidate NuGet Packages](.net/nuget-consolidate.md)
-* [Remove <Unknown Project> from Test Explorer](.net/remove-unknown-project.md)
-* [Start VS As Administrator](.net/start-vs-as-admin.md)
+* [Homonymous NuGet and Project names](visual-studio/homonymous-nuget-project-names.md)
+* [Consolidate NuGet Packages](visual-studio/nuget-consolidate.md)
+* [Remove <Unknown Project> from Test Explorer](visual-studio/remove-unknown-project.md)
+* [Start VS As Administrator](visual-studio/start-vs-as-admin.md)
