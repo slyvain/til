@@ -10,15 +10,13 @@ List of the things I learned today
 * [Oracle](#oracle)
 * [Photoshop](#photoshop)
 * [Shell](#shell)
+* [Visual Studio](#visual-studio)
 
 ---
 
 ### .Net
 * [Floating Point Types](.net/floating-point-types.md)
-* [Homonymous NuGet and Project names](.net/homonymous-nuget-project-names.md)
-* [Consolidate NuGet Packages](.net/nuget-consolidate.md)
 * [Out Var](.net/out-var.md)
-* [Start VS As Administrator](.net/start-vs-as-admin.md)
 
 ### Git
 * [Fetch Only Remote](git/fetch-only-remote.md)
@@ -36,5 +34,10 @@ List of the things I learned today
 * [Composites](photoshop/composites.md)
 * [Luminosity Masks](photoshop/luminosity-masks.md)
 
-## Shell
+### Shell
 * [Tar-GZ a Directory](shell/tar-gz-directory.md)
+
+### Visual Studio
+* [Homonymous NuGet and Project names](.net/homonymous-nuget-project-names.md)
+* [Consolidate NuGet Packages](.net/nuget-consolidate.md)
+* [Start VS As Administrator](.net/start-vs-as-admin.md)
