@@ -41,4 +41,5 @@ List of the things I learned today
 ### Visual Studio
 * [Homonymous NuGet and Project names](.net/homonymous-nuget-project-names.md)
 * [Consolidate NuGet Packages](.net/nuget-consolidate.md)
+* [Remove <Unknown Project> from Test Explorer](.net/remove-unknown-project.md)
 * [Start VS As Administrator](.net/start-vs-as-admin.md)
