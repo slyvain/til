@@ -21,6 +21,7 @@ List of the things I learned today
 ### Git
 * [Fetch Only Remote](git/fetch-only-remote.md)
 * [Rebase After Conflict](git/rebase-after-conflict.md)
+* [Undo Commit Not Yet Pushed](git/undo-commit-not-pushed.md)
 
 ### Oracle
 * [Escape Special Characters](oracle/escape-special-characters.md)
