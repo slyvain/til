@@ -15,6 +15,7 @@ List of the things I learned today
 ---
 
 ### .Net
+* [Best Practices Async API](.net/best-practices-async-api.md)
 * [Floating Point Types](.net/floating-point-types.md)
 * [Out Var](.net/out-var.md)
 
