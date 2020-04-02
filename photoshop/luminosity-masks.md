@@ -18,3 +18,5 @@ Shadows:
 3. Create a new mask called `Shadows`
 4. Select `Bright Highlights` and invert the selection to create `Dark Shadows`
 5. Same with `Brightest Highlights` to create `Darkest Shadows`
+
+:thumbsup: Don't do this all the time: record an action!

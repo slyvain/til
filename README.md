@@ -34,6 +34,7 @@ List of the things I learned today
 
 ### Photoshop
 * [Autumn Effect](photoshop/autumn-effect.md)
+* [Color Cast Easy Removal](photoshop/color-cast-easy-removal.md)
 * [Composites](photoshop/composites.md)
 * [Focus Stacking](photoshop/focus-stacking.md)
 * [Luminosity Masks](photoshop/luminosity-masks.md)
