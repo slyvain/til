@@ -56,8 +56,8 @@ Console.WriteLine(a + a + a == 0.3); // false
 ##### example 3
 > 1 / 100 * 100 == 1, right? Right!
   ```c#
-Console.WriteLine("((double)(1/103.0))*103 < 1 is {0}.", ((double)(1 / 103.0)) * 103 < 1); // false
-Console.WriteLine("((float)(1/103.0F))*103 > 1 is {0}.", ((float)(1 / 103.0F)) * 103 > 1); // false
+Console.WriteLine("((double)(1/100.0))*100 < 1 is {0}.", ((double)(1 / 100.0)) * 100 < 1); // false
+Console.WriteLine("((float)(1/100.0F))*100 > 1 is {0}.", ((float)(1 / 100.0F)) * 100 > 1); // false
 ```
 > Same with 103, right? RIGHT??
   ```c#
