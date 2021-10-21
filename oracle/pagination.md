@@ -89,7 +89,7 @@ Filtering with `Dense_Rank` would return the customers John, Patricia, James, Ki
 ## Pagination with Offset and limit
 
 Let's say we want to paginate every 3 customers (to get a small example), ordered by Customers.CustomerId ascending.
-We definately need to make use of the `Dense_rank` function. We also need to put in place an offset and a limit.
+We definitely need to make use of the `Dense_rank` function. We also need to put in place an offset and a limit.
 In Oracle, we can achieve it like this:
 
 ```sql
