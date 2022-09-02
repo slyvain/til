@@ -54,7 +54,7 @@ namespace MyProject
 
 ## Attribute in the .csproj
 
-We can also enable the attribute to the whole project by setting the attribute in the `.csproj` file:
+We can also enable the attribute to the whole project by setting the attribute in the `.csproj` file.
 
 ```csharp
 <Project Sdk="Microsoft.NET.Sdk">
@@ -65,6 +65,31 @@ We can also enable the attribute to the whole project by setting the attribute i
     <ItemGroup>
         <AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleTo">
             <_Parameter1>$(AssemblyName).Tests</_Parameter1>
+        </AssemblyAttribute>
+    </ItemGroup>
+
+</Project>
+```
+
+## Expose in multiple test projects
+
+Add an `ItemGroup` element per project:
+
+```csharp
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleTo">
+            <_Parameter1>$(AssemblyName).Tests.Unit</_Parameter1>
+        </AssemblyAttribute>
+    </ItemGroup>
+
+    <ItemGroup>
+        <AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleTo">
+            <_Parameter1>$(AssemblyName).Tests.Integration</_Parameter1>
         </AssemblyAttribute>
     </ItemGroup>
 
