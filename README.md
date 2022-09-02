@@ -19,6 +19,7 @@ List of the things I learned today
 ### .Net
 * [API Versioning](.net/api-versioning.md)
 * [Best Practices Async API](.net/best-practices-async-api.md)
+* [Debug Json Deserialization](.net/debug-json-deserialization.md)
 * [Floating Point Types](.net/floating-point-types.md)
 * [Out Var](.net/out-var.md)
 * [Unit Test Internal Classes](.net/unit-test-internal.md)
