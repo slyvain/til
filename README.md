@@ -21,6 +21,7 @@ List of the things I learned today
 * [Best Practices Async API](.net/best-practices-async-api.md)
 * [Debug Json Deserialization](.net/debug-json-deserialization.md)
 * [Floating Point Types](.net/floating-point-types.md)
+* [Mock HttpClient](.net/mock-http-client.md)
 * [Out Var](.net/out-var.md)
 * [Unit Test Internal Classes](.net/unit-test-internal.md)
 
