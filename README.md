@@ -21,6 +21,7 @@ List of the things I learned today
 * [Best Practices Async API](.net/best-practices-async-api.md)
 * [Debug Json Deserialization](.net/debug-json-deserialization.md)
 * [Floating Point Types](.net/floating-point-types.md)
+* [Kestrel Forbidden Socket](.net/kestrel-forbidden-socket.md)
 * [Log Execution Time](.net/log-execution-time.md)
 * [Mock HttpClient](.net/mock-http-client.md)
 * [Out Var](.net/out-var.md)
